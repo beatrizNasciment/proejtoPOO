@@ -6,6 +6,7 @@
 <p style="color:#9C7DE3">Projeto final da cadeira de POO desenvolvido por: </p>
   
     Fátima Beatriz;
+    Patrick Luan;
     Lucas Glaydson;
     Luiz Eduardo;
     Antonio Vinicius
